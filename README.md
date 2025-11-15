@@ -35,7 +35,7 @@ Ensured best security practices by disabling public write access and managing ob
 
 S3 Website Endpoint: http://supss-bucket08.s3-website-us-east-1.amazonaws.com/
 
-CloudFront Distribution: d5m6lvmc521cm.cloudfront.net
+CloudFront Distribution: http://d5m6lvmc521cm.cloudfront.net
 
 The CloudFront URL provides global access to the website via AWS edge locations, ensuring fast load times for users worldwide.
 
